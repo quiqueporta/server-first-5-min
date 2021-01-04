@@ -1,2 +1,3 @@
 # server-first-5-min
-Ansible playbook for the first 5 minutes in a server
+
+Ansible playbook for first 5 minutes in a server.
